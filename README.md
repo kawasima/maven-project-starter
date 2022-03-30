@@ -41,11 +41,11 @@ https://www.jetbrains.com/help/idea/sdk.html
 
 ## テストを実行する
 
-左ペインでsrc/test/javaの下のSetupTestをダブルクリックし、ファイルを開きます。
+左ペインでcontext/src/test/javaの下のHogeUseCaseImplTestをダブルクリックし、ファイルを開きます。
 [![Image from Gyazo](https://i.gyazo.com/eb6388a2348fcaedbf3e50ec94599fcd.png)](https://gyazo.com/eb6388a2348fcaedbf3e50ec94599fcd)
 
 SetupTestのコードが中央ペインに表示されるので、クラス定義左横の緑のアイコンをクリックし、Run Testを選択します。
-これにより、SetupTestがJUnitとして実行されます。
+これにより、HogeUseCaseImplTestがJUnitとして実行されます。
 
 [![Image from Gyazo](https://i.gyazo.com/812c0e6c8e100c6f5f2c362edc80d78c.png)](https://gyazo.com/812c0e6c8e100c6f5f2c362edc80d78c)
 
